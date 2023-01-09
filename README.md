@@ -1,2 +1,2 @@
 # colin-JM
-> Computer Science Student at the University of Minnesota System
+> Computer Science Student at the University of Minnesota
